@@ -1,4 +1,4 @@
-# Project 3-C is for Cool
+# Final Project - Group 5
 
 # Animal Photo Recognition 
 ## Project Summary
