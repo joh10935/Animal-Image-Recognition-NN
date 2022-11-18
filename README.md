@@ -22,5 +22,6 @@
 * Matplotlib (graphing accuracy of algorithm over time)
 
 ## Resources
-* <p><a href= "https://www.kaggle.com/datasets/viratkothari/animal10">Animals-10</a> 
-* <p><a href= "https://www.kaggle.com/datasets/agajorte/zoo-animals-extended-dataset">Zoo Animals Extended</a>
+* Datasets:
+  -<p><a href= "https://www.kaggle.com/datasets/viratkothari/animal10">Animals-10</a> 
+  -<p><a href= "https://www.kaggle.com/datasets/agajorte/zoo-animals-extended-dataset">Zoo Animals Extended</a>
