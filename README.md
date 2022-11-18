@@ -1,11 +1,12 @@
 # Final-Project-Group-5
-
-Repository to hold files for the final project.
-Brain H.
-Daniel W.
-David N.
-Gautam G.
-James D.
-Joe J.
-Prqdip R.
-William T.
+<br>
+Repository to hold files for the final project.<p>
+  
+Brain H. <br>
+Daniel W.<br>
+David N.<br>
+Gautam G.<br>
+James D.<br>
+Joe J.<br>
+Prqdip R.<br>
+William T.<br>
