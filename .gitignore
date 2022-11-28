@@ -1,1 +1,3 @@
-.env
+config.env
+node_modules
+ML_Notes.txt
