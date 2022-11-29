@@ -20,7 +20,7 @@
 
 # Resources
 * Datasets:
-  - <p><a href="https://www.kaggle.com/datasets/viratkothari/animal-10">Animals-10</a> </p>
+  - <p><a href="https://www.kaggle.com/datasets/viratkothari/animal10">Animals-10</a> </p>
 
 # Tasks
 
