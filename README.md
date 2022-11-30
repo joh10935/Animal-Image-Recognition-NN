@@ -1,6 +1,6 @@
 # Final-Project-Group-5
 
-# Animal Photo Recognition
+# Ani-ML Photo Recognition
 
 ## Members
 * Brian Hall
