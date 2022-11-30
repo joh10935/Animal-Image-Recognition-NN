@@ -31,7 +31,7 @@
 
 ## Website
 * GitHub hosted:
- - <p><a href = "https://webberdan.github.io/project4_site/">Guess That Animal</a> </p>
+  - <p><a href = "https://webberdan.github.io/project4_site/">Guess That Animal</a> </p>
 
 
 ## Conclusion
