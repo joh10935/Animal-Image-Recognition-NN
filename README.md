@@ -22,7 +22,13 @@
 * Datasets:
   - <p><a href="https://www.kaggle.com/datasets/viratkothari/animal10">Animals-10</a> </p>
 
-## Tasks
+## Training Model
+* Intially utilized Cloudinary to convert image data to 32x32 pixels.
+* Uploaded and stored on MongoDb for later training.
+* Keras was utilized to train the model using the RGB and pixel data for the individual images in the dataset.
+* Used TensorFlow to build the model to classify images.
+
+
 
 ## Conclusion
 
