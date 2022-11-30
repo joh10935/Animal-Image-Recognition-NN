@@ -30,8 +30,9 @@
 
 
 ## Website
-* https://webberdan.github.io/project4_site/
+* GitHub hosted:
+ - <p><a href = "https://webberdan.github.io/project4_site/">Guess That Animal</a> </p>
 
 
 ## Conclusion
-* We were able to successfully create a model with passable accuracy of 64-79% and a website to show our findings.
+* We were able to successfully create a model with passable accuracy of 64% for validation and 79% for testing, and a website to show our findings.
