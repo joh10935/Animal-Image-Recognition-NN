@@ -1,5 +1,3 @@
-# Final-Project-Group-5
-
 # Ani-ML Photo Recognition
 
 ## Members
